@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Mar 25 14:44:06 2021
-
-"""
-
 ## Project "Loan calculator"
 
 **Level:** easy.
